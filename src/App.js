@@ -35,6 +35,7 @@ function App() {
         onChange={(e) => dispatch({ type: "changeAge", value: e.target.value })}
       />
       <p>Age: {age}</p>
+      <p>A direct edit from GitHub</p>
     </>
   );
 }
