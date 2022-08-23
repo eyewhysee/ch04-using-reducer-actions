@@ -36,6 +36,7 @@ function App() {
       />
       <p>Age: {age}</p>
       <p>A direct edit from GitHub</p>
+      <p>A edit from CodeSandbox</p>
     </>
   );
 }
