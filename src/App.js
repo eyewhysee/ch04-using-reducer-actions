@@ -62,6 +62,7 @@ function App() {
         </li>
         <li>Make a change, save it, and then commit it back</li>
       </ul>
+      <hr />
     </>
   );
 }
