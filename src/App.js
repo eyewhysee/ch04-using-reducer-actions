@@ -39,6 +39,28 @@ function App() {
       <p>A edit from CodeSandbox</p>
       <p>Another direct edit from GitHub</p>
       <p>Another edit from CodeSandbox</p>
+      <p>
+        Okay, I think I have the process down to open sandbox and then link to
+        GitHub
+      </p>
+      <ul>
+        <li>
+          From https://github.com/eyewhysee/ch04-using-reducer-actions: Hit Open
+          Sandbox button
+        </li>
+        <li>
+          From CodeSandbox... it shows GitHub status: This sandbox is in sync
+          with main on GitHub. You have to fork to make changes --> Fork
+        </li>
+        <li>
+          From CodeSandbox with GitHub logo in left column: Click GitHub logo
+          --> Link to GitHub repository: If you wish to contribute back to
+          eyewhysee/ch04-using-reducer-actions, you can link this sandbox to the
+          GitHub repository. This will allow you to create commits and open pull
+          requests with this sandbox. --> Link Sandbox
+        </li>
+        <li>Make a change, save it, and then commit it back</li>
+      </ul>
     </>
   );
 }
