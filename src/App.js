@@ -66,6 +66,7 @@ function App() {
         <li>Make another edit from fork</li>
         <li>Third edit from the draft/lingering-dust fork</li>
         <li>Fourth edit from the draft/lingering-dust fork</li>
+        <li>Fifth edit from draft/lingering-dust branch: after manual pull request and then reload in CodeSandbox</li>
       </ul>
       <hr />
     </>
