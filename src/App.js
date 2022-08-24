@@ -67,6 +67,7 @@ function App() {
         <li>Third edit from the draft/lingering-dust fork</li>
         <li>Fourth edit from the draft/lingering-dust fork</li>
         <li>Fifth edit from draft/lingering-dust branch: after manual pull request and then reload in CodeSandbox</li>
+        <li>6th edit from draft/lingering-dust branch: Fifth edit had CodeSandbox auto link to PR</li>
       </ul>
       <hr />
     </>
