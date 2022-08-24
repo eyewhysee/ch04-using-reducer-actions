@@ -38,6 +38,7 @@ function App() {
       <p>A direct edit from GitHub</p>
       <p>A edit from CodeSandbox</p>
       <p>Another direct edit from GitHub</p>
+      <p>Another edit from CodeSandbox</p>
     </>
   );
 }
