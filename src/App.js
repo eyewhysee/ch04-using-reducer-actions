@@ -61,6 +61,7 @@ function App() {
           requests with this sandbox. --> Link Sandbox
         </li>
         <li>Make a change, save it, and then commit it back</li>
+        <li>Let's make a pull request</li>
       </ul>
       <hr />
     </>
