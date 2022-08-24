@@ -39,7 +39,7 @@ function App() {
       <p>A edit from CodeSandbox</p>
       <p>Another direct edit from GitHub</p>
       <p>Another edit from CodeSandbox</p>
-      <hr>
+      <hr />
       <p>
         Okay, I think I have the process down to open sandbox and then link to
         GitHub
