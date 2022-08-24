@@ -63,6 +63,7 @@ function App() {
         <li>Make a change, save it, and then commit it back</li>
         <li>Let's make a pull request</li>
         <li>Make edits from a fork</li>
+        <li>Make another edit from fork</li>
       </ul>
       <hr />
     </>
