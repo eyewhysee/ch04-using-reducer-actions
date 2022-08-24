@@ -71,6 +71,7 @@ function App() {
         <li>7th edit from draft/lingering-dust branch</li>
         <li>8th edit from draft/lingering-dust branch</li>
         <li>9th edit from draft/lingering-dust branch</li>
+        <li>10th edit from draft/lingering-dust branch: I believe the process is to commit and push the change in left column, and then Create PR button in top right</li>
       </ul>
       <hr />
     </>
