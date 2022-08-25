@@ -76,6 +76,7 @@ function App() {
         <li>12th edit from draft/lingering-dust branch: sync and refresh page as need to get Open Pull Request buttons</li>
         <li>13th edit from draft/lingering-dust branch: sync and refresh page as need to get Open Pull Request buttons</li>
         <li>1st of 3 edits to form a pull request from draft/lingering-dust branch</li>
+        <li>2nd of 3 edits to form a pull request from draft/lingering-dust branch</li>
       </ul>
       <hr />
     </>
