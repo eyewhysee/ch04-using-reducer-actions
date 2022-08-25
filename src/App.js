@@ -78,6 +78,7 @@ function App() {
         <li>1st of 3 edits to form a pull request from draft/lingering-dust branch</li>
         <li>2nd of 3 edits to form a pull request from draft/lingering-dust branch</li>
         <li>3rd of 3 edits to form a pull request from draft/lingering-dust branch</li>
+        <li>Gitpod edit on draft/lingering-dust branch</li>
       </ul>
       <hr />
     </>
